@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>news</title>
+	<link rel="stylesheet" href="style.css">
+</head>
+<body>
+	<div>
+		<h1>Мой первый сайт</h1>
+		<div>
+			<div>
+				<h3>Заголовок</h3>
+				<em>Дата:</em>
+				<p>Статья</p>
+			</div>
+			<div>
+				<h3>Заголовок2</h3>
+				<em>Дата:</em>
+				<p>Статья</p>
+			</div>
+		</div>
+		<footer>
+			<p>футер</p>
+		</footer>
+	</div>
+</body>
+</html>
